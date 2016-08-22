@@ -1,0 +1,26 @@
+{"time":"2016-08-17T11:04:05+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":21032,"latency_human":"21.0328ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:48+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":16026,"latency_human":"16.0269ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:49+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":15544,"latency_human":"15.5446ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:49+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":16017,"latency_human":"16.0171ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:49+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":15010,"latency_human":"15.0101ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:50+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":16010,"latency_human":"16.0105ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:50+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":15595,"latency_human":"15.5954ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:50+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":17009,"latency_human":"17.009ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:50+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":17011,"latency_human":"17.0111ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:50+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":14269,"latency_human":"14.2694ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:50+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":13011,"latency_human":"13.0115ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:51+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":15008,"latency_human":"15.0088ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:51+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":15068,"latency_human":"15.0683ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:51+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":16008,"latency_human":"16.008ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:51+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":16010,"latency_human":"16.0109ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:51+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":15001,"latency_human":"15.001ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:51+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":14012,"latency_human":"14.012ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:51+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":15553,"latency_human":"15.5532ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:52+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":16512,"latency_human":"16.5122ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:52+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":17010,"latency_human":"17.0106ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:52+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":16010,"latency_human":"16.0109ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:04:52+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":16007,"latency_human":"16.0077ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:16:34+08:00","level":"ERROR","prefix":"echo","file":"echo.go","line":"230","message":"exec: "echo": executable file not found in %PATH%"}
+{"time":"2016-08-17T11:16:34+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":5003,"latency_human":"5.0038ms","bytes_in":0,"bytes_out":21}
+{"time":"2016-08-17T11:16:53+08:00","level":"ERROR","prefix":"echo","file":"echo.go","line":"230","message":"exec: "echo": executable file not found in %PATH%"}
+{"time":"2016-08-17T11:16:53+08:00","remote_ip":"::1","method":"GET","uri":"/seiptables/v1/iptables/help","status":500, "latency":3003,"latency_human":"3.0032ms","bytes_in":0,"bytes_out":21}
